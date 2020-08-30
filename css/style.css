@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+}
+h1 {
+    background-color: lightsalmon;
+    color: blue;
+}
+.first-paragraph {
+    background-color: red;
+    color: rgb(32, 134, 18);
+}
+h2 {
+    background-color: seagreen;
+    color: darkblue;
+}
+.second-paragraph {
+    background-color: sienna;
+    color: rgb(150, 13, 115);
+}
+ul {
+    background-color: yellow;
+    color: rgb(105, 12, 12);
+}
